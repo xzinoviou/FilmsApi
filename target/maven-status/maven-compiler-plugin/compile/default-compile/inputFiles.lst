@@ -1,4 +1,8 @@
+/home/xzin/Documents/Dev/Java/FilmsApi/src/main/java/service/UserService.java
+/home/xzin/Documents/Dev/Java/FilmsApi/src/main/java/service/UserServiceImpl.java
 /home/xzin/Documents/Dev/Java/FilmsApi/src/main/java/utils/DBUtils.java
+/home/xzin/Documents/Dev/Java/FilmsApi/src/main/java/dao/UserDao.java
+/home/xzin/Documents/Dev/Java/FilmsApi/src/main/java/config/ApplicationConfig.java
 /home/xzin/Documents/Dev/Java/FilmsApi/src/main/java/controllers/MvcServlet.java
 /home/xzin/Documents/Dev/Java/FilmsApi/src/main/java/dao/Dao.java
 /home/xzin/Documents/Dev/Java/FilmsApi/src/main/java/model/Film.java

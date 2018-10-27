@@ -18,7 +18,7 @@ public abstract class Dao {
     protected ResultSet resultSet;
 
     public Dao(){
-        connection = DBUtils.getConnection();
+            connection = DBUtils.getConnection();
     }
 
     public void closeAll(){

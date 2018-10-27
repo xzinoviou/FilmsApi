@@ -1,5 +1,9 @@
-model/User.class
 controllers/MvcServlet.class
+service/UserServiceImpl.class
 dao/Dao.class
 utils/DBUtils.class
 model/Film.class
+service/UserService.class
+model/User.class
+dao/UserDao.class
+config/ApplicationConfig.class
